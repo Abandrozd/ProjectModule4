@@ -22,3 +22,10 @@ h1 {
     font-size: 22px;
     font-family: Courier New;
 }
+
+.par4 {
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: green 3px 3px 3px;
+}
