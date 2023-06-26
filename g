@@ -5,7 +5,7 @@ h1 {
 .par1 {
     background: blue;
     font-size: 32pt;
-    color: green;
+    color: green
 }
 
 .par2 {
